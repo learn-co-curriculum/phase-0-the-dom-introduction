@@ -91,10 +91,6 @@ the DOM's "Application Programming Interface", or "API." It's just a programming
 word that you're likely to see online. But it just means "the things that these
 objects know how to do."
 
-## Resources
-
-- [CSS Tricks - What is the DOM?](https://css-tricks.com/dom/)
-- [MDN - The DOM](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction)
 
 ## Conclusion
 
@@ -103,6 +99,11 @@ representation of the HTML, CSS and JavaScript loaded by the browser when we
 visit a page. We normally interact with it through the `document` object.
 Because it is the "source of truth" for what browsers display, changes to the
 DOM create changes in the browser screen.
+
+## Resources
+
+- [CSS Tricks - What is the DOM?](https://css-tricks.com/dom/)
+- [MDN - The DOM](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction)
 
 [chrome]: https://www.google.com/chrome/browser/desktop/index.html
 
