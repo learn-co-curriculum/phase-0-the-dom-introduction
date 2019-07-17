@@ -14,8 +14,11 @@ let's balance things out by learning about the DOM.
 
 ### Identify the Document Object Model
 
+<!--Beware, GitHub doesn't render the line-through decoration. It might look
+like a typographical / grammatical error below, but it isn't! -->
+
 Let's start with a biology metaphor. Your DNA represents a code-based version of
-you. The DOM represents a code-based version of a web page. If something edits
+_you_. The DOM represents a code-based version of _a web page_. If something edits
 your DNA, <span style="text-decoration: line-through">mutant powers</span>
 changes will be made in your body. Similarly, if something changes the DOM,
 what's displayed in the browser _changes as well_.
