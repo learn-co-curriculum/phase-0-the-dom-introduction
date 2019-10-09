@@ -30,21 +30,15 @@ provides the browser. Let's step through that process.
 
 > **NOTE**: We use [Google Chrome][chrome].
 
-### Change the URL of a Web Page to View the Source
-
 1. In a Google Chrome browser, copy the current URL and open it in another tab.
-
 2. To see the HTML of this page, add `view-source:` to the front of the URL in
 the new tab. By using the `view-source` URL prefix, all the page's source HTML
 appears. It will look something like this:
-
-   ![html-source](https://s3.amazonaws.com/learn-verified/html-javascript-lesson.png)
-
+      ![html-source](https://s3.amazonaws.com/learn-verified/html-javascript-lesson.png)
 3. The browser reads this HTML, along with CSS and JavaScript defined in
    `<script>` or `<link>` tags, to create the DOM inside the browser. At this
    point, nothing is displayed on the screen. This time when nothing is
    displayed is very brief so our human eyes never really catch it.
-
 4. The browser then uses the DOM object to create the rendered page. While we
    often learn that browsers "display HTML" that's not exactly accurate.
    Browsers use the HTML to create a "middleman" that they, in turn use to
