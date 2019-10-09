@@ -26,7 +26,7 @@ what's displayed in the browser _changes as well_.
 ### Explain How the DOM Is Created
 
 The DOM is created when the page loads from the HTML that the web server
-provides the browser. Let's step through that process.
+provides the browser. Let's examine this process step-by-step:
 
 > **NOTE**: We use [Google Chrome][chrome].
 
