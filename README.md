@@ -51,10 +51,10 @@ through two _variables_: `window` and `document`.
 
 The `window` variable points to an _object_ the represents Chrome's information
 about the browser, well, "window." It has many functions, but the main one is
-"it's a place where everything is." Not to be Zen here, but a browser without
-`window` is like the Universe before the Big Bang: there's just..._nothing_
-everywhere where it wasn't. It's in the `window` that the Things are defined
-(`Array` and `Number`).
+"it's a place where everything is." Not to be Zen here, but a browser without a
+`window` is like the universe before the Big Bang; there's just... _nothing_.
+The `window` is the place where the Things are defined (`Array`, `String`, and
+`Number`).
 
 In the `window`, JavaScript also tracks operating system browser information
 like:
