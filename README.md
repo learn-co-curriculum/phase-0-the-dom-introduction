@@ -49,7 +49,7 @@ appears. It will look something like this:
 Recall that JavaScript is object-oriented. The DOM is available inside Chrome
 through two _variables_: `window` and `document`.
 
-The `window` variable points to an _object_ the represents Chrome's information
+The `window` variable points to an _object_ that represents Chrome's information
 about the browser, well, "window." It has many functions, but the main one is
 "it's a place where everything is." Not to be Zen here, but a browser without a
 `window` is like the universe before the Big Bang; there's just... _nothing_.
@@ -84,7 +84,7 @@ document.write("Moof") //=> Removes all existing DOM content, replaces it with "
 ```
 
 The _methods_ and _properties_ that the DOM provides via its objects is called
-the DOM's "Application Programming Interface", or "API." It's just a programming
+the DOM's "Application Programming Interface," or "API." It's just a programming
 word that you're likely to see online. But it just means "the things that these
 objects know how to do."
 
