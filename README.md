@@ -104,4 +104,3 @@ DOM create changes in the browser screen.
 
 [chrome]: https://www.google.com/chrome/browser/desktop/index.html
 
-<p class='util--hide'>View <a href='https://learn.co/lessons/fewpjs-introduction-to-the-dom-to-get-started'>Introduction to the DOM</a> on Learn.co and start learning to code for free.</p>
