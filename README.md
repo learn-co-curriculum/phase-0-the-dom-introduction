@@ -91,7 +91,7 @@ objects know how to do."
 
 ## Conclusion
 
-In this lesson we met our partner, the DOM, a JavaScript object that is a
+In this lesson we met our partner, the DOM, that is a
 representation of the HTML, CSS and JavaScript loaded by the browser when we
 visit a page. We normally interact with it through the `document` object.
 Because it is the "source of truth" for what browsers display, changes to the
