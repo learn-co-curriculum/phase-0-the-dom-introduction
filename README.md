@@ -190,6 +190,8 @@ environment are as follows:
 
 Keep these instructions handy &mdash; you will be doing this often.
 
+> **Note:** In order for these instructions to work, you will need to have Google Chrome set as your default browser. You can find [instructions for Mac and Windows here][default-browser].
+
 ## Conclusion
 
 In this lesson we met our partner, the DOM, that is a representation of the
@@ -207,3 +209,4 @@ the Console to try out code as we're building our programs.
 [chrome]: https://www.google.com/chrome/browser/desktop/index.html
 [widipedia]: https://en.wikipedia.org/wiki/Ada_Lovelace
 [open-tools]: https://developers.google.com/web/tools/chrome-devtools/console/#open_as_panel
+[default-browser]: https://support.google.com/chrome/answer/95417?hl=en&co=GENIE.Platform=Desktop
