@@ -10,7 +10,7 @@
 
 ## Introduction
 
-We have learned how to write HTML and style it with CSS. We have also built some
+We have learned how to write HTML and style it with CSS. We have also built our
 JavaScript programming skills. With this knowledge, we're now ready to learn
 **Document_Object Model (DOM) programming**.
 
@@ -46,7 +46,7 @@ server provides to the browser. Let's examine this process step-by-step:
 
 > **NOTE**: To ensure that instructions and screenshots match up with your experience, be sure to use the [Google Chrome][chrome] browser.
 
-1. In Google Chrome, open a tab and navigate to [the Wikipedia page for Ada Lovelace][wikipedia].
+1. In Google Chrome, open a tab and navigate to the [Wikipedia page for Ada Lovelace][wikipedia].
 2. To see the HTML of this page, add `view-source:` to the front of the URL in
    the URL bar. Using the `view-source` URL prefix will display all the page's
    source HTML. It will look something like this:
@@ -88,7 +88,7 @@ As an _object_, `document` has _properties_:
 document.URL; //=> https://en.wikipedia.org/wiki/Ada_Lovelace
 ```
 
-As an _object_ `document` also has _methods_:
+As an _object_, `document` also has _methods_:
 
 ```javascript
 document.querySelector("h1"); //=> Returns the element on the page with an id attribute equal to "firstHeading" 
@@ -194,12 +194,12 @@ Keep these instructions handy &mdash; you will be doing this often.
 
 ## Conclusion
 
-In this lesson we met our partner, the DOM, that is a representation of the
-HTML, CSS and JavaScript loaded by the browser when we visit a page. We normally
-interact with it through the `document` object. Because it is the "source of
-truth" for what browsers display, changes to the DOM create changes in the
-browser screen. We also learned how to access the Chrome Developer Tools and use
-the Console to try out code as we're building our programs.
+In this lesson we learned about the DOM, which is a "middle layer" that presents
+the HTML, CSS and JavaScript loaded by the browser when we visit a page. We
+normally interact with it through the `document` object. Because it is the
+"source of truth" for what browsers display, changes to the DOM create changes
+in the browser screen. We also learned how to access the Chrome Developer Tools
+and use the Console to try out code as we're building our programs.
 
 ## Resources
 
@@ -207,6 +207,6 @@ the Console to try out code as we're building our programs.
 * [MDN - The DOM](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction)
 
 [chrome]: https://www.google.com/chrome/browser/desktop/index.html
-[widipedia]: https://en.wikipedia.org/wiki/Ada_Lovelace
+[wikipedia]: https://en.wikipedia.org/wiki/Ada_Lovelace
 [open-tools]: https://developers.google.com/web/tools/chrome-devtools/console/#open_as_panel
 [default-browser]: https://support.google.com/chrome/answer/95417?hl=en&co=GENIE.Platform=Desktop
