@@ -166,13 +166,7 @@ quotation marks!
 We can go far beyond simple literal expressions: we can create variables, loops,
 or if statements in the console. We can even define and run functions!
 
-**Note:** It's impossible to overstate how important practice is when you're
-learning a new programming language. As you continue moving through the
-JavaScript curriculum, you should almost always have a browser console open.
-Code along with every example. Get used to the syntax and familiarize yourself
-with the errors that arise when you mistype something. Clear the console or
-simply refresh the page whenever you need a clean slate. Code, code, code,
-**code**, ***code***.
+> **Note:** It's impossible to overstate how important practice is when you're learning a new programming language. As you continue moving through the JavaScript curriculum, you should almost always have a browser console open. Code along with every example. Get used to the syntax and familiarize yourself with the errors that arise when you mistype something. Clear the console or simply refresh the page whenever you need a clean slate. Code, code, code, **code**, ***code***.
 
 ## Opening Files in the Browser
 
