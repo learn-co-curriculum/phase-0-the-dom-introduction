@@ -182,7 +182,7 @@ environment are as follows:
   "Preview." There will be a button in the upper right corner that will "pop"
   the page into a new tab in the browser.
 
-Keep these instructions handy &mdash; you will be doing this often.
+Keep these instructions handy — you will be doing this often.
 
 > **Note:** In order for these instructions to work, you will need to have Google Chrome set as your default browser. You can find [instructions for Mac and Windows here][default-browser].
 
