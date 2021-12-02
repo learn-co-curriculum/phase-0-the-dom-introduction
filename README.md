@@ -142,7 +142,9 @@ the number `2` appear.
 
 Try out some other mathematical expressions and see what they return.
 
-Next up, let's write some text. To make sure the JavaScript engine knows that we're trying to write some literal text, we need to wrap it in quotation marks, like so:
+Next up, let's write some text. To make sure the JavaScript engine knows that
+we're trying to write some literal text, we need to wrap it in quotation marks,
+like so:
 
 ```js
 "This is some literal text in JavaScript!";
