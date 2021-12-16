@@ -12,7 +12,7 @@
 
 We have learned how to write HTML and style it with CSS. We have also built our
 JavaScript programming skills. With this knowledge, we're now ready to learn
-**Document_Object Model (DOM) programming**.
+**Document Object Model (DOM) programming**.
 
 DOM programming consists of using JavaScript to:
 
@@ -142,7 +142,9 @@ the number `2` appear.
 
 Try out some other mathematical expressions and see what they return.
 
-Next up, let's write some text. To make sure the JavaScript engine knows that we're trying to write some literal text, we need to wrap it in quotation marks, like so:
+Next up, let's write some text. To make sure the JavaScript engine knows that
+we're trying to write some literal text, we need to wrap it in quotation marks,
+like so:
 
 ```js
 "This is some literal text in JavaScript!";
@@ -176,9 +178,6 @@ environment are as follows:
 - **Local environment on Mac**: Run `open index.html` in the terminal.
 - **Local environment using WSL/Ubuntu**: Run `explorer.exe index.html` in the
   terminal.
-- **AWS IDE**: right-click on the `index.html` file in the file tree and select
-  "Preview." There will be a button in the upper right corner that will "pop"
-  the page into a new tab in the browser.
 
 Keep these instructions handy — you will be doing this often.
 
