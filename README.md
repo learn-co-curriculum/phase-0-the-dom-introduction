@@ -99,9 +99,10 @@ document.querySelector("h1");
 ```
 
 The _methods_ and _properties_ that the DOM provides via its objects is called
-the DOM's "Application Programming Interface," or "API." It's just a programming
-word that you're likely to see online. But it just means "the things that these
-objects know how to do."
+the DOM's "Application Programming Interface," or "API." It's a programming phrase
+that you're likely to see online. But it just means "the things that these
+objects know how to do." In the example above, we see that the DOM knows how to
+find an element on the page that has a particular `id` attribute.
 
 ## The Browser Console and Chrome Developer Tools
 
@@ -158,7 +159,7 @@ quotation marks!
 ![Text in the console](https://curriculum-content.s3.amazonaws.com/web-development/js/basics/intro-to-javascript/text_in_console_300.gif)
 
 We can go far beyond simple literal expressions: we can create variables, loops,
-or if statements in the console. We can even define and run functions!
+or `if` statements in the console. We can even define and run functions!
 
 > **Note:** It's impossible to overstate how important practice is when you're
 > learning a new programming language. As you continue moving through the
